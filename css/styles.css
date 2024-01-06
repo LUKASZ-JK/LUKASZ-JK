@@ -1,0 +1,15 @@
+html{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+   max-width: 40%;
+   height: auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.image-credit{
+   display: flex;
+   justify-content:center;
+}
